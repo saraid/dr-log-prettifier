@@ -1,19 +1,33 @@
+Possible Features
+
 Anonymizer
 
-Strip out anything that the system thinks is a name and replace with something generic. Can replace with nonsense string or generic names. If something is obviously not right (example: LOOK descriptions), may decide to ignore the anonymizer completely and permit an override.
+Strip out anything that the system thinks is a name
+and replace with something generic. Can replace with
+nonsense string or generic names. If something is
+obviously not right (example: LOOK descriptions), may
+decide to ignore the anonymizer completely and
+permit an override.
 
 Perspective Remover
 
-Remove all significant instances of "you" and replace with a provided name.
+Remove all significant instances of "you" and replace
+with a provided name.
 
 Highlighter
 
-Flag certain strings, or string types, in a certain hex color.
+Flag certain strings, or string types, in a certain hex 
+color.
 
 Sanitizer
 
-Remove any instances of the command prompt. Convert whisper commands into actual statements. Convert combat strings into readable content.
+Remove any instances of the command prompt. Convert 
+whisper commands into actual statements. Convert combat
+strings into readable content.
 
 Statistical Analyzer
 
-How often did someone speak during the log? How many of X hits did you get in with Y weapon? How many times did you get hit? Flesch-Kincaid score of various people? Rate of misspells?
+How often did someone speak during the log? How many of
+X hits did you get in with Y weapon? How many times did
+you get hit? Flesch-Kincaid score of various people?
+Rate of misspells?
